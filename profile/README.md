@@ -48,10 +48,6 @@ RSM Malta handles client and personal data under professional confidentiality ob
 and applicable data protection law. Do not commit client-identifying information, personal
 data, or working papers to any repository in this organisation.
 
-## Security
-
-If you believe you have found a security issue in anything published here, please report it
-privately to **info@rsm.com.mt** rather than opening a public issue.
 
 ---
 
