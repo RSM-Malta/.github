@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.rsm.global/malta/">Website</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/company/rsm-malta/">LinkedIn</a>;
+  <a href="https://www.linkedin.com/company/rsm-malta/">LinkedIn</a>
 </p>
 
 ---
