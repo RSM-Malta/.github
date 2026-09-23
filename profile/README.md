@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.rsm.global/malta/">Website</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/company/rsm-malta/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:info@rsm.com.mt">info@rsm.com.mt</a>
 </p>
 
 ---
