@@ -26,11 +26,10 @@ collaborators. Anything public is published deliberately and carries an explicit
 
 | Repository | What it holds |
 | --- | --- |
-| [**rsm-malta-docs**](https://github.com/RSM-Malta/rsm-malta-docs) | Organisation documentation — procedures, architecture, onboarding, knowledge sharing |
-| [**rsm-malta-standards**](https://github.com/RSM-Malta/rsm-malta-standards) | Engineering standards — coding conventions, repository structure, review and release rules |
+| [**rsm-malta-docs**](https://github.com/RSM-Malta/rsm-malta-docs) | Organisation documentation — standards, onboarding, architecture, runbooks, knowledge sharing |
 
-New to the organisation? Read the onboarding guide in `rsm-malta-docs`, then the standards
-before opening your first pull request.
+New to the organisation? Read the onboarding guide in `rsm-malta-docs`, then the
+`standards/` section of the same repository, before opening your first pull request.
 
 ## How we work
 
