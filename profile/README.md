@@ -22,32 +22,6 @@ documentation and standards that keep them consistent and auditable.
 Most repositories here are **private** and restricted to RSM Malta personnel and approved
 collaborators. Anything public is published deliberately and carries an explicit licence.
 
-## Where to start
-
-| Repository | What it holds |
-| --- | --- |
-| [**rsm-malta-docs**](https://github.com/RSM-Malta/rsm-malta-docs) | Organisation documentation — standards, onboarding, architecture, runbooks, knowledge sharing |
-
-New to the organisation? Read the onboarding guide in `rsm-malta-docs`, then the
-`standards/` section of the same repository, before opening your first pull request.
-
-## How we work
-
-- **Branch protection on `main`.** Changes arrive by pull request, with at least one review.
-- **Documentation lives with the code.** Every repository carries a `README` that explains
-  what it is, who owns it, and how to run it.
-- **Least privilege.** Access is granted through teams, not to individuals, and reviewed
-  periodically.
-- **No secrets in git.** Credentials, client data and personal data belong in the approved
-  secret store — never in a repository, an issue, or a commit message.
-
-## Confidentiality
-
-RSM Malta handles client and personal data under professional confidentiality obligations
-and applicable data protection law. Do not commit client-identifying information, personal
-data, or working papers to any repository in this organisation.
-
-
 ---
 
 <p align="center">
