@@ -25,7 +25,18 @@ collaborators. Anything public is published deliberately and carries an explicit
 ---
 
 <p align="center">
-  <sub>RSM Malta is a member of the RSM network and trades as RSM. RSM is the trading name used by
-  the members of the RSM network. Each member of the RSM network is an independent accounting and
-  advisory firm which practises in its own right.</sub>
+  <sub>RSM Malta is a member of the RSM Network and trades as RSM. RSM is the trading
+  name used by the members of the RSM Network. Each member of the RSM Network is an independent assurance, tax and consulting firm each of which practices in its own right. The RSM network is not itself a separate legal entity of any description in any jurisdiction.</sub>
+</p>
+
+<p align="center">
+  <sub>The RSM Network is administered by RSM International Limited, a company registered in England and Wales (company number 4040598) whose registered office is at 50 Cannon Street, London EC4N 6JJ.</sub>
+</p>
+
+<p align="center">
+  <sub>The brand and trademark RSM and other intellectual property rights used by members of the Network are owned by RSM International Association, an association governed by article 60 et seq of the Civil Code of Switzerland whose seat is in Zug.</sub>
+</p>
+
+<p align="center">
+  <sub>© RSM Malta, 2026</sub>
 </p>
